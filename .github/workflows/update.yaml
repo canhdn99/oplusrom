@@ -2,7 +2,7 @@ name: Daily OTA Update
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:  # 支持手动触发
 
 jobs:

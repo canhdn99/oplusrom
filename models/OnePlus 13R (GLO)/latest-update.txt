@@ -1,0 +1,10 @@
+Update Time: 2026-02-07 04:40:18
+Region: GL
+Latest OTA version: CPH2645_11.F.32_2320_202601100059
+Version Name: CPH2645_16.0.3.500(EX01)
+Android Version: Android 16
+ColorOS Version:: CPH2645_16.0.3.500(EX01)
+Security Patch: 2026-01-01
+Release Time: 2026/01/28 11:00:11
+ROM ROM Link Download: https://component-ota-sg.allawnos.com/downloadCheck?c=6b65e35fce768fea55bde88927a960e0&p=f088224e006a1389a4bc9a044567d160422940942e64c0ba2c48c6d499c2833212b0604bae547ab34d0c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=9db0473c2373375547d415428538e8d2&id=6979cf48007ddc017e03d3f1&taste=0&supportDLTaste=0&mode=1&s=3f765bf5450962be7efb2918a46c5d21
+Changelogs: https://gauss-componentotamanual.allawnofs.com/remove-6b65e35fce768fea55bde88927a960e0/component-ota/26/01/28/3241a686ee9443b1a041c2b43df0816c.html

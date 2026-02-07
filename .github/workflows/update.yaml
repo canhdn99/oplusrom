@@ -42,7 +42,11 @@ jobs:
 
       - name: Check for changes
         id: changes
+        shell: bash
         run: |
+          set -e
+
+          # Giữ nguyên Unicode cho tên file/thư mục (TQ, VN...)
           git config --global core.quotepath false
 
           if git diff --quiet; then
@@ -53,8 +57,10 @@ jobs:
             exit 0
           fi
 
+          # Stage đúng phạm vi bạn muốn push
           git add -A ./links ./models
 
+          # Có diff nhưng không có gì staged trong links/models -> tránh commit fail
           if git diff --cached --quiet; then
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
             echo "updated_machines=" >> "$GITHUB_OUTPUT"
@@ -63,4 +69,16 @@ jobs:
             exit 0
           fi
 
-          echo "has_changes=tr_
+          echo "has_changes=true" >> "$GITHUB_OUTPUT"
+
+          # Lấy danh sách thiết bị = thư mục cấp 2 trong models/
+          mapfile -t devs < <(
+            git -c core.quotepath=false diff --cached --name-only \
+              | awk -F/ '$1=="models" && NF>=3 {print $2}' \
+              | sort -u
+          )
+
+          if [ "${#devs[@]}" -eq 0 ]; then
+            machines="(không xác định)"
+          else
+            machines="$(printf "%s\n" "${devs[@]}" | paste -sd ',' - | sed 's/,/, /g')"

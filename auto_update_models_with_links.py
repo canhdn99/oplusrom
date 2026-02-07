@@ -167,10 +167,10 @@ def process_folder(folder_dir, links_root_dir, default_region, mode, proxy):
             f.write(f"Latest OTA version: {new_ota}\n")
             f.write(f"Version Name: {info['versionName']}\n")
             f.write(f"Android Version: {info['realAndroidVersion']}\n")
-            f.write(f"ColorOS Version:: {coloros_version}\n")
+            f.write(f"ColorOS Version: {coloros_version}\n")
             f.write(f"Security Patch: {info['securityPatch']}\n")
             f.write(f"Release Time: {info['publishedTimeStr']}\n")
-            f.write(f"ROM ROM Link Download: {info['romDownloadLink']}\n")
+            f.write(f"ROM Download Link: {info['romDownloadLink']}\n")
             f.write(f"Changelogs: {info['descriptionUrl']}\n")
 
         print(f"发现新版本 → {new_ota} ({coloros_version})")

@@ -44,6 +44,10 @@ jobs:
         id: changes
         shell: bash
         run: |
+          # Giữ nguyên Unicode cho tên file/thư mục (TQ, VN...)
+          git config --global core.quotepath false
+
+          # Không có thay đổi gì trong working tree
           if git diff --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
             echo "updated_machines=" >> $GITHUB_OUTPUT
@@ -52,17 +56,30 @@ jobs:
             exit 0
           fi
 
+          # Stage đúng phạm vi bạn muốn push
+          git add -A ./links ./models
+
+          # Có thay đổi nhưng không nằm trong links/models thì bỏ qua để tránh commit fail
+          if git diff --cached --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "updated_machines=" >> $GITHUB_OUTPUT
+            echo "update_details=" >> $GITHUB_OUTPUT
+            echo "Có thay đổi nhưng không nằm trong links/models, bỏ qua"
+            exit 0
+          fi
+
           echo "has_changes=true" >> $GITHUB_OUTPUT
 
-          # Lấy tên máy từ thư mục models/
-          machines=$(git diff --name-only \
-            | grep '^models/' \
-            | awk -F/ '{print $2}' \
-            | sort -u \
-            | paste -sd ", " -)
+          # Lấy danh sách thiết bị theo dòng (an toàn cho Unicode)
+          mapfile -t devs < <(git -c core.quotepath=false diff --cached --name-only \
+            | grep '^models/' || true \
+            | awk -F/ 'NF>=2 {print $2}' \
+            | sort -u)
 
-          if [ -z "$machines" ]; then
+          if [ ${#devs[@]} -eq 0 ]; then
             machines="(không xác định)"
+          else
+            machines="$(printf "%s\n" "${devs[@]}" | paste -sd ',' - | sed 's/,/, /g')"
           fi
 
           echo "updated_machines=$machines" >> $GITHUB_OUTPUT
@@ -70,9 +87,7 @@ jobs:
 
           # Gom nội dung latest-update.txt của từng máy (nếu có)
           details=""
-          IFS=',' read -ra arr <<< "$machines"
-          for raw in "${arr[@]}"; do
-            dev="$(echo "$raw" | xargs)"  # trim spaces
+          for dev in "${devs[@]}"; do
             f="models/$dev/latest-update.txt"
             if [ -f "$f" ]; then
               details+="📱 $dev"$'\n'
@@ -81,6 +96,11 @@ jobs:
               details+="📱 $dev"$'\n'"(Không có $f)"$'\n\n'
             fi
           done
+
+          # Nếu không có máy nào thì vẫn set message cho rõ
+          if [ -z "$details" ]; then
+            details="(Không có thay đổi trong models/)"
+          fi
 
           # Ghi multiline output (GitHub Actions format)
           {
@@ -93,10 +113,7 @@ jobs:
 
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ./links/*
-          git add ./models/*
-          git commit -m update
-
+          git commit -m "update"
 
       - name: Push changes
         if: steps.changes.outputs.has_changes == 'true'
@@ -117,7 +134,7 @@ jobs:
           UPDATE_DETAILS: ${{ needs.update-ota.outputs.update_details }}
         run: |
           text="Có cập nhật mới!
-          
+
           ${UPDATE_DETAILS}"
 
           curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \

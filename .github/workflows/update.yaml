@@ -3,17 +3,22 @@ name: Daily OTA Update
 on:
   schedule:
     - cron: '0 */12 * * *'
-  workflow_dispatch:  # 支持手动触发
+  workflow_dispatch:
 
 jobs:
   update-ota:
     runs-on: ubuntu-latest
 
+    outputs:
+      has_changes: ${{ steps.changes.outputs.has_changes }}
+      updated_machines: ${{ steps.changes.outputs.updated_machines }}
+      update_details: ${{ steps.changes.outputs.update_details }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 确保能正确比较变化
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -23,7 +28,6 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # 如果需要额外包在这里添加
 
       - name: Make updater executable
         run: |
@@ -34,25 +38,92 @@ jobs:
       - name: Run OTA update script
         run: |
           python auto_update_models_with_links.py
+          python auto_update_models_with_links.py --region=EU
+          python auto_update_models_with_links.py --region=IN
           python auto_update_models_with_links.py --mode=taste
+          python auto_update_models_with_links.py --region=EU --mode=taste
+          python auto_update_models_with_links.py --region=IN --mode=taste
+
       - name: Check for changes
         id: changes
+        shell: bash
         run: |
           if git diff --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "updated_machines=" >> $GITHUB_OUTPUT
+            echo "update_details=" >> $GITHUB_OUTPUT
             echo "无文件变化，不推送"
-          else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "检测到文件变化，将推送"
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add ./links/*
-            git add ./models/*
-            git commit -m update
+            exit 0
           fi
+
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+
+          # Lấy tên máy từ thư mục models/
+          machines=$(git diff --name-only \
+            | grep '^models/' \
+            | awk -F/ '{print $2}' \
+            | sort -u \
+            | paste -sd ", " -)
+
+          if [ -z "$machines" ]; then
+            machines="(không xác định)"
+          fi
+
+          echo "updated_machines=$machines" >> $GITHUB_OUTPUT
+          echo "Updated machines: $machines"
+
+          # Gom nội dung latest-update.txt của từng máy (nếu có)
+          details=""
+          IFS=',' read -ra arr <<< "$machines"
+          for raw in "${arr[@]}"; do
+            dev="$(echo "$raw" | xargs)"  # trim spaces
+            f="models/$dev/latest-update.txt"
+            if [ -f "$f" ]; then
+              details+="📱 $dev"$'\n'
+              details+="$(cat "$f")"$'\n\n'
+            else
+              details+="📱 $dev"$'\n'"(Không có $f)"$'\n\n'
+            fi
+          done
+
+          # Ghi multiline output (GitHub Actions format)
+          {
+            echo "update_details<<EOF"
+            echo "$details"
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
+          echo "检测到文件变化，将推送"
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ./links/*
+          git add ./models/*
+          git commit -m update
+
 
       - name: Push changes
         if: steps.changes.outputs.has_changes == 'true'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  notify-telegram:
+    runs-on: ubuntu-latest
+    needs: update-ota
+    if: needs.update-ota.outputs.has_changes == 'true'
+    steps:
+      - name: Send Telegram message
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          UPDATED_MACHINES: ${{ needs.update-ota.outputs.updated_machines }}
+          UPDATE_DETAILS: ${{ needs.update-ota.outputs.update_details }}
+        run: |
+          text="Có cập nhật mới!
+          
+          ${UPDATE_DETAILS}"
+
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=${text}"

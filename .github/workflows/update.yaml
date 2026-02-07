@@ -38,11 +38,7 @@ jobs:
       - name: Run OTA update script
         run: |
           python auto_update_models_with_links.py
-          python auto_update_models_with_links.py --region=EU
-          python auto_update_models_with_links.py --region=IN
           python auto_update_models_with_links.py --mode=taste
-          python auto_update_models_with_links.py --region=EU --mode=taste
-          python auto_update_models_with_links.py --region=IN --mode=taste
 
       - name: Check for changes
         id: changes

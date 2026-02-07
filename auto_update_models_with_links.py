@@ -162,16 +162,16 @@ def process_folder(folder_dir, links_root_dir, default_region, mode, proxy):
 
         info_file = os.path.join(folder_dir, "latest-update.txt")
         with open(info_file, "w", encoding="utf-8") as f:
-            f.write(f"本地更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-            f.write(f"查询地区: {effective_region}\n")
-            f.write(f"最新 OTA 版本: {new_ota}\n")
-            f.write(f"版本名称: {info['versionName']}\n")
-            f.write(f"Android 版本: {info['realAndroidVersion']}\n")
-            f.write(f"ColorOS 版本: {coloros_version}\n")
-            f.write(f"安全补丁: {info['securityPatch']}\n")
-            f.write(f"发布时间: {info['publishedTimeStr']}\n")
-            f.write(f"ROM 下载链接: {info['romDownloadLink']}\n")
-            f.write(f"更新日志链接: {info['descriptionUrl']}\n")
+            f.write(f"Update Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"Region: {effective_region}\n")
+            f.write(f"Latest OTA version: {new_ota}\n")
+            f.write(f"Version Name: {info['versionName']}\n")
+            f.write(f"Android Version: {info['realAndroidVersion']}\n")
+            f.write(f"ColorOS Version:: {coloros_version}\n")
+            f.write(f"Security Patch: {info['securityPatch']}\n")
+            f.write(f"Release Time: {info['publishedTimeStr']}\n")
+            f.write(f"ROM ROM Link Download: {info['romDownloadLink']}\n")
+            f.write(f"Changelogs: {info['descriptionUrl']}\n")
 
         print(f"发现新版本 → {new_ota} ({coloros_version})")
         updated = True

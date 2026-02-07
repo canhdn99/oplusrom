@@ -95,14 +95,6 @@ jobs:
                 echo "(Không có $f1)" >> "$tmp"
               fi
 
-              f2="models/$dev/ota-version.txt"
-              echo "" >> "$tmp"
-              if [ -f "$f2" ]; then
-                cat "$f2" >> "$tmp"
-              else
-                echo "(Không có $f2)" >> "$tmp"
-              fi
-
               echo "" >> "$tmp"
             done
           else

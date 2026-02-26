@@ -37,7 +37,10 @@ def parse_updater_output(raw_output):
     clean_output = strip_ansi_codes(raw_output)
     try:
         data = json.loads(clean_output)
-        body = data.get("body", {})
+        body = data.get("body") or {}
+        
+        if not body:
+            return None
 
         # 优先使用 realOtaVersion
         new_ota = body.get("realOtaVersion") or body.get("otaVersion", "")

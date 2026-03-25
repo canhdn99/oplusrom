@@ -1,10 +1,10 @@
-Update Time: 2026-03-16 16:40:23
+Update Time: 2026-03-25 09:04:38
 Region: CN
-Latest OTA version: PLY110_11.A.31_0310_202603090131
-Version Name: PLY110_16.0.5.701(CN01)
+Latest OTA version: PLY110_11.A.32_0320_202603192334
+Version Name: PLY110_16.0.5.702(CN01)
 Android Version: Android 16
-ColorOS Version: PLY110_16.0.5.701(CN01)
+ColorOS Version: PLY110_16.0.5.702(CN01)
 Security Patch: 2026-03-01
-Release Time: 2026/03/16 15:56:03
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=9fe05b0d4ca66a844fc7ed5a2d55ab64&p=a6c78fdd3756888a30cedffb17ce31619f71abb74e3754f484b700b1c22e0495bfb66289e3716126be3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=0a0c6b00112362367cd2e14efdf91040&id=69ae07049e207b017baafea0&taste=1&supportDLTaste=0&mode=1&s=adeccdfc4368c04f2e943d7922a918fe
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-9fe05b0d4ca66a844fc7ed5a2d55ab64/component-ota/26/03/16/fac94c827d3a42509421c36f5855a559.html
+Release Time: 2026/03/25 08:59:10
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=b960a2f3491c9f843e4f72b50adb3959&p=a6c78fdd3756888839ced9fd479e31659126f9e74b6054f080ba5bb9917c53c1eceb36d3b1713126bd3bd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=b715c76d05e4db2dee01e88c4640a77c&id=69c33ef59e207b017bab1dbc&taste=1&supportDLTaste=0&mode=1&s=03e1d2818d621247a0cc6a3acd97631c
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-b960a2f3491c9f843e4f72b50adb3959/component-ota/26/03/25/4f1213b136ac4a47820f1107c03b9b1a.html

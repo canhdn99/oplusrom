@@ -1,10 +1,10 @@
-Update Time: 2026-03-04 02:44:43
+Update Time: 2026-03-27 08:03:12
 Region: CN
-Latest OTA version: RMX5080_11.C.43_1430_202602061908
-Version Name: RMX5080_16.0.3.501(CN01)
+Latest OTA version: RMX5080_11.C.45_1450_202603132200
+Version Name: RMX5080_16.0.5.700(CN01)
 Android Version: Android 16
-ColorOS Version: RMX5080_16.0.3.501(CN01)
-Security Patch: 2026-01-01
-Release Time: 2026/03/04 01:55:12
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=26bed1faf893e8c4204c9a7f3a9cb16f&p=a6c78fdd3757888a30ced4f940ca3961c173f4e14d3754f182be00ebc528539aeebd34dab6793672bc69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=1e9b0f0e20f7ef9d644fcfcc5c514914&id=69a790839e207b017baaf7da&taste=0&supportDLTaste=0&mode=1&s=25cbf9da309aceb489b3e8cb8331cbd4
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-26bed1faf893e8c4204c9a7f3a9cb16f/component-ota/26/03/04/ed2eb7e575d34fa3a3fd9ae356337602.html
+ColorOS Version: RMX5080_16.0.5.700(CN01)
+Security Patch: 2026-03-01
+Release Time: 2026/03/27 06:54:57
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=afa9a3cf9b890a2e72259a8f537e64bd&p=a6c78fdd3756888b3fce89a943ce3062c325aee61b6654a6d7bc00bcc2790393b8ec63dfe27b3374e833d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=4b2e334e73d1697c78ffdfdf8e66fa51&id=69c47f659e207b017bab1fa0&taste=0&supportDLTaste=0&mode=1&s=a264c93a01c143eeeec985a522962136
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-afa9a3cf9b890a2e72259a8f537e64bd/component-ota/26/03/27/15e02d8bbf4d4c579e2216ce794b3f34.html

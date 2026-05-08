@@ -1,10 +1,10 @@
-Update Time: 2026-04-20 15:55:50
+Update Time: 2026-05-08 10:07:36
 Region: CN
-Latest OTA version: PLK110_11.A.47_0470_202604091338
-Version Name: PLK110_16.0.5.702(CN01)
+Latest OTA version: PLK110_11.A.63_0630_202605061316
+Version Name: PLK110_16.0.7.206(CN01)
 Android Version: Android 16
-ColorOS Version: PLK110_16.0.5.702(CN01)
-Security Patch: 2026-03-01
-Release Time: 2026/04/20 15:38:59
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=7fc6fdcae1c1ccc8372814b84f8ef751&p=a6c78fdd3751888b3aced4f9119731669477f4e34f3554f1d1b800ea937a55c7e3b66188ee2c6221eb6fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=bf4968137327c5f7533ed6fcee22c6aa&id=69dc8a429e207b01827c0acf&taste=1&supportDLTaste=0&mode=1&s=22cfe1e55c143dea4fe3a3c6715a8ea1
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-7fc6fdcae1c1ccc8372814b84f8ef751/component-ota/26/04/20/9952d2feac984445b05c0e11a93961f2.html
+ColorOS Version: PLK110_16.0.7.206(CN01)
+Security Patch: 2026-05-01
+Release Time: 2026/05/08 09:56:48
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=5012fd1fac5f668ffefccf7bc2a0f45d&p=a6c78fdd3750888a3fce8fa7109b62659572a8e41e3254f384b703bc907e5495efec34dfe42e362fb46dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=3a70c829b33da5bb91953b40c73ed6ba&id=69fdb281007ddc01813dbc42&taste=1&supportDLTaste=0&mode=1&tr=manual&s=fb7fa7017010478e8f4ae11fbe3706af
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-5012fd1fac5f668ffefccf7bc2a0f45d/component-ota/26/05/08/d541d713b2fc49bfaf09f51fe51b4cc8.html

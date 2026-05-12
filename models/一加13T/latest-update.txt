@@ -1,10 +1,10 @@
-Update Time: 2026-03-11 14:30:50
+Update Time: 2026-05-12 05:08:29
 Region: CN
-Latest OTA version: PKX110_11.C.42_1420_202603061200
-Version Name: PKX110_16.0.5.701(CN01)
+Latest OTA version: PKX110_11.C.46_1460_202604292022
+Version Name: PKX110_16.0.7.200(CN01)
 Android Version: Android 16
-ColorOS Version: PKX110_16.0.5.701(CN01)
-Security Patch: 2026-03-01
-Release Time: 2026/03/11 13:55:03
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=137291d8d7e60cea384a2a711be21d29&p=a6c78fdd3756888a3fcedafc169938379772ffb44a3054f085bf00b99e2b009bb8ba638fb37b3171b96ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=9b3e68d44c2cf2b4ef4f4087144d68f6&id=69aaa7e19e207b017baafd4a&taste=1&supportDLTaste=0&mode=1&s=76eef423150282748ad62504e33543cb
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-137291d8d7e60cea384a2a711be21d29/component-ota/26/03/11/592d881ddce741989639ebba52249315.html
+ColorOS Version: PKX110_16.0.7.200(CN01)
+Security Patch: 2026-05-01
+Release Time: 2026/05/12 03:31:43
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=4b9ccf88d5e4478cf71ade17d2d9bb84&p=a6c78fdd3751888939cedbf945ce31319277a8b44e6254a487ed00bb96795991edbd61dae0293075ee69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=78e95afcf9fb48c674d3cc4f27739562&id=6a0283a79e207b01827c2f19&taste=1&supportDLTaste=0&mode=1&tr=manual&s=d87fd0980e699082ee215e1a02401aba
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-4b9ccf88d5e4478cf71ade17d2d9bb84/component-ota/26/05/12/5b6820891b84412ab3dfad133a3997d5.html

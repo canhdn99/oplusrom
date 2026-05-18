@@ -1,10 +1,10 @@
-Update Time: 2026-03-27 09:30:35
+Update Time: 2026-05-18 16:32:15
 Region: CN
-Latest OTA version: OPD2404_11.F.28_2280_202603181026
-Version Name: OPD2404_16.0.5.701(CN01)
+Latest OTA version: OPD2404_11.F.29_2290_202605081156
+Version Name: OPD2404_16.0.5.702(CN01)
 Android Version: Android 16
-ColorOS Version: OPD2404_16.0.5.701(CN01)
-Security Patch: 2026-03-01
-Release Time: 2026/03/27 09:07:56
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=5adca3fc47cf30bf1a5d0bcbaf5c39ef&p=a6c78fdd3756888b30ced9a9419b32679e78fbe41f3554f182bc03eec57d529befeb63ddb47b3776b53bd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=b3b1dc12c2c1acd63097cc4dad494c81&id=69bb61ad9e207b017bab12f2&taste=1&supportDLTaste=0&mode=1&s=c2071dbcb7674d73027e7f0d7dad4948
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-5adca3fc47cf30bf1a5d0bcbaf5c39ef/component-ota/26/03/27/ce1b3c8f8e2f435f9193401d32f872b0.html
+ColorOS Version: OPD2404_16.0.5.702(CN01)
+Security Patch: 2026-05-01
+Release Time: 2026/05/18 12:48:16
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=a56cfd0cf9f090ceda5181357a42dd37&p=a6c78fdd3750888a30cedafa43ca38659678abe21b6e54a48cbf03bdc72b5196e3b866dbb578352ebc3ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=f46c2555be343362a322eeba98832f79&id=69fe916b007ddc01813dbc96&taste=1&supportDLTaste=0&mode=1&tr=manual&s=0846fb80763f41fbb594566280454114
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-a56cfd0cf9f090ceda5181357a42dd37/component-ota/26/05/18/6cd0325dafb74eb2a7b803fa9c3ea971.html

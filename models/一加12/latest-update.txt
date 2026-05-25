@@ -1,10 +1,10 @@
-Update Time: 2026-03-25 12:07:02
+Update Time: 2026-05-25 05:08:38
 Region: CN
-Latest OTA version: PJD110_11.F.43_2430_202603192242
-Version Name: PJD110_16.0.5.702(CN01)
+Latest OTA version: PJD110_11.F.50_2500_202605162130
+Version Name: PJD110_16.0.7.200(CN01)
 Android Version: Android 16
-ColorOS Version: PJD110_16.0.5.702(CN01)
-Security Patch: 2026-03-01
-Release Time: 2026/03/25 11:38:52
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=6402c13e1baacfebab78163bfbd6d9a0&p=a6c78fdd3756888839ce8eae179b6365c577abe84b6654ffd3bc5be9c77a5193b9ec3089b229642ebc6ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=9036787bfb23907ae06250a083f957c5&id=69bcef469e207b017bab160d&taste=1&supportDLTaste=0&mode=1&s=fae62d250c025b664906a676402c2c51
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-6402c13e1baacfebab78163bfbd6d9a0/component-ota/26/03/25/6c55b0296e0c4b38a5f22876af6cb2b6.html
+ColorOS Version: PJD110_16.0.7.200(CN01)
+Security Patch: 2026-05-01
+Release Time: 2026/05/25 04:03:37
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=a062a7b15de1068bb5274dead8d8708a&p=a6c78fdd3750888b3ecedafc14c93267c475f5e54f6154a5d1ea00e99f7a07c0bceb338eb22b6672be3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=ef965f5a94b32a43afd10e0acf4920e8&id=6a13c61b007ddc01813dd176&taste=1&supportDLTaste=0&mode=1&tr=manual&s=44bdb45354392e79afa8bcf705ce91e7
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-a062a7b15de1068bb5274dead8d8708a/component-ota/26/05/25/d0f0a039eea24ac587f7338414fb41c6.html

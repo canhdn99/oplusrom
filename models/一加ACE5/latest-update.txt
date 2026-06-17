@@ -1,10 +1,10 @@
-Update Time: 2026-05-19 11:41:32
+Update Time: 2026-06-17 10:16:34
 Region: CN
-Latest OTA version: PKG110_11.F.52_2520_202605102058
-Version Name: PKG110_16.0.7.200(CN01)
+Latest OTA version: PKG110_11.F.53_2530_202606082356
+Version Name: PKG110_16.0.8.300(CN01)
 Android Version: Android 16
-ColorOS Version: PKG110_16.0.7.200(CN01)
-Security Patch: 2026-05-01
-Release Time: 2026/05/19 11:20:24
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=dbda29ed545c04d3a95f0c212d171f59&p=a6c78fdd3750888b38cedba7409c6537c372fbb21c6754a5d7ba00bf9f2b52c4ecbd378eb32e6322e86ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=be637536ccc85bcda1120b08f0ecf501&id=6a0c0c109e207b01827c376a&taste=1&supportDLTaste=0&mode=1&tr=manual&s=5f006996a643a8236460aa5cb0ff68f4
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-dbda29ed545c04d3a95f0c212d171f59/component-ota/26/05/19/e394cc5f2c8f43c6b7e732127a8673c2.html
+ColorOS Version: PKG110_16.0.8.300(CN01)
+Security Patch: 2026-06-01
+Release Time: 2026/06/17 09:45:52
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=7e06f7ef42866d9ca902d635b51954e2&p=a6c78fdd3753888a30ced4fd11ca62679423fbb2426454fe87ba00be92200591e3ed37d2b3716673b568d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=f28cd0b850cb4df38df33b51bb3d2cf6&id=6a27faa39e207b01827c55c5&taste=1&supportDLTaste=0&mode=1&tr=manual&s=61e8cead499e00eb8ab53a35345e3c10
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-7e06f7ef42866d9ca902d635b51954e2/component-ota/26/06/17/c32eb19c887b491f9da300f0d98ce7d9.html

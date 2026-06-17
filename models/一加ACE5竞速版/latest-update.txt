@@ -1,10 +1,10 @@
-Update Time: 2026-05-19 10:51:16
+Update Time: 2026-06-17 10:16:36
 Region: CN
-Latest OTA version: PLF110_11.C.60_1600_202605091448
-Version Name: PLF110_16.0.7.200(CN01)
+Latest OTA version: PLF110_11.C.61_1610_202606082208
+Version Name: PLF110_16.0.8.301(CN01)
 Android Version: Android 16
-ColorOS Version: PLF110_16.0.7.200(CN01)
-Security Patch: 2026-05-01
-Release Time: 2026/05/19 10:27:17
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=b6a09515fd2903be196b55314fdeea44&p=a6c78fdd3750888b38ced9f943c9676d9525aeb31f6754f3d0bc5ab9902102c3e2b66b88b3783620ec32d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=993929275f3aae88c87e3b0da2ca4b6f&id=6a0c1b61007ddc01813dc97b&taste=1&supportDLTaste=0&mode=1&tr=manual&s=1c0e791126f953a11823aee78a0766f2
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-b6a09515fd2903be196b55314fdeea44/component-ota/26/05/19/28017357a690429784e10e2e22c1997c.html
+ColorOS Version: PLF110_16.0.8.301(CN01)
+Security Patch: 2026-06-01
+Release Time: 2026/06/17 09:25:06
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=1a6787d66dd0773714e78d19402024c6&p=a6c78fdd3753888a30ced5fc17c933369673fce74a6f54a482eb03bac221589aefee33dbe32d3675bc3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=b063291529fa8089c7d3691d85923a3d&id=6a2826ed9e207b01827c5635&taste=1&supportDLTaste=0&mode=1&tr=manual&s=7a3d373a184523f72203a839b7125242
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-1a6787d66dd0773714e78d19402024c6/component-ota/26/06/17/2212aeee8ccd4197a98ba73a5dca6f31.html

@@ -1,10 +1,10 @@
-Update Time: 2026-05-26 10:14:36
+Update Time: 2026-06-26 16:23:57
 Region: CN
-Latest OTA version: PHY110_11.F.25_2250_202605162119
-Version Name: PHY110_16.0.7.200(CN01)
+Latest OTA version: PHY110_11.F.26_2260_202606111216
+Version Name: PHY110_16.0.8.300(CN01)
 Android Version: Android 16
-ColorOS Version: PHY110_16.0.7.200(CN01)
-Security Patch: 2026-05-01
-Release Time: 2026/05/26 07:43:47
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=6647debb8e45e14952a5dd67e2ab05dd&p=a6c78fdd3750888b31ce8ef914983531c174fbb5426054f282ed5abbc52e529abbeb6b8fb32b6424ee3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=b7c97824ac3b0eb1483cd192ef2fabe3&id=6a13c725007ddc01813dd178&taste=1&supportDLTaste=0&mode=1&tr=manual&s=9bf29a3d21272b38ce198748a4fc81de
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-6647debb8e45e14952a5dd67e2ab05dd/component-ota/26/05/26/0697aa9c2a284768815c20dac7fbb4a9.html
+ColorOS Version: PHY110_16.0.8.300(CN01)
+Security Patch: 2026-06-01
+Release Time: 2026/06/26 16:18:32
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=52ad6ca16d8adb89d0f359906786fe26&p=a6c78fdd3753888b3bcedeaf16973436c370a8b7196554f080b600bd9e7e0090e8ea3089e5793524e839d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=227cc824fe3f3570296aa7c35ba59f30&id=6a2bdb6c9e207b01827c5ab7&taste=1&supportDLTaste=0&mode=1&tr=manual&s=84cdf82ac6314afa65c1306cbb59f53c
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-52ad6ca16d8adb89d0f359906786fe26/component-ota/26/06/26/28002ce655e54d4892a0eb1521bcae3d.html

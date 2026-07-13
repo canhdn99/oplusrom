@@ -1,10 +1,10 @@
-Update Time: 2026-06-15 12:37:38
+Update Time: 2026-07-13 15:26:21
 Region: CN
-Latest OTA version: PLQ110_11.A.53_0530_202606051944
-Version Name: PLQ110_16.0.8.300(CN01)
+Latest OTA version: PLQ110_11.A.55_0550_202607092043
+Version Name: PLQ110_16.0.9.401(CN01)
 Android Version: Android 16
-ColorOS Version: PLQ110_16.0.8.300(CN01)
-Security Patch: 2026-06-01
-Release Time: 2026/06/15 08:04:28
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=4f3a1951cc4527e60d0de5748c5d0c28&p=a6c78fdd3753888a31cedca6469b376d9e25f5e1186f54a484bb5aecc37e539bbbee66d3e1783975b469d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=b90f7f9cc73d86238c093f29e27d1b83&id=6a261b5e007ddc01813de521&taste=1&supportDLTaste=0&mode=1&tr=manual&s=1ca7ed706e048ab62db312186512e7e3
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-4f3a1951cc4527e60d0de5748c5d0c28/component-ota/26/06/15/7f57c2b86a0844c6a74183cdef6ffd30.html
+ColorOS Version: PLQ110_16.0.9.401(CN01)
+Security Patch: 2026-07-01
+Release Time: 2026/07/13 13:04:59
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=44b8a31dfacfbecd375c7a08933aebba&p=a6c78fdd3752888b39ced8ae149d38629522a8e91e3054f482bb5aecc47a0591edbf66d9e32c6424be3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=25b731ed7b3c5afc352f30eb81e4ab5c&id=6a50a8e2007ddc01813e0c5c&taste=1&supportDLTaste=0&mode=1&tr=manual&s=a289950886d296510897cfd078fe5d36
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-44b8a31dfacfbecd375c7a08933aebba/component-ota/26/07/13/14498dedd27e40f39dfcb3906eb94030.html

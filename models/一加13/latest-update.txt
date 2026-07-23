@@ -1,10 +1,10 @@
-Update Time: 2026-07-09 09:54:39
+Update Time: 2026-07-23 15:34:36
 Region: CN
-Latest OTA version: PJZ110_11.C.91_1910_202607021252
-Version Name: PJZ110_16.0.9.401(CN01)
+Latest OTA version: PJZ110_11.C.92_1920_202607071800
+Version Name: PJZ110_16.0.9.402(CN01)
 Android Version: Android 16
-ColorOS Version: PJZ110_16.0.9.401(CN01)
+ColorOS Version: PJZ110_16.0.9.402(CN01)
 Security Patch: 2026-07-01
-Release Time: 2026/07/09 08:42:39
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=1f633ff32ddc4bd04273a0da685fad6a&p=a6c78fdd3752888a3bced5f9479b67679376f4b04f6654a680bc5becc5285097ecbf648ae02c3976e838d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=869904176b78b4d7b67b762f1e18f366&id=6a46509e9e207b01827c6fc9&taste=1&supportDLTaste=0&mode=1&tr=manual&s=b5ea21805d3510267194721afa7eedf8
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-1f633ff32ddc4bd04273a0da685fad6a/component-ota/26/07/09/fcbf05c96ecc4ab1b7fa8906ac80a880.html
+Release Time: 2026/07/23 13:33:29
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=960fd45ba6a273fd13b3f7a1b9abb445&p=a6c78fdd3752888b3ece8bfc41c93865c425fbe04d3254f484bd03ba902a50c7e2e964dde27f3920e83fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=0c4e28007dc2aa55afe5a92c0fa1c0b2&id=6a5973ff9e207b01827c8107&taste=1&supportDLTaste=0&mode=1&tr=manual&s=e9628e4805ce24e446c2949c207d6c1f
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-960fd45ba6a273fd13b3f7a1b9abb445/component-ota/26/07/23/6de5a354fdfa463a8ba6ebb3e8d9aceb.html

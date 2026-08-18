@@ -1,10 +1,10 @@
-Update Time: 2026-07-13 15:26:23
+Update Time: 2026-08-18 03:03:35
 Region: CN
-Latest OTA version: PLR110_11.A.63_0630_202607031936
-Version Name: PLR110_16.0.9.400(CN01)
+Latest OTA version: PLR110_11.A.65_0650_202608071634
+Version Name: PLR110_16.0.10.500(CN01)
 Android Version: Android 16
-ColorOS Version: PLR110_16.0.9.400(CN01)
-Security Patch: 2026-07-01
-Release Time: 2026/07/13 13:05:36
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=dadefeac3912cd6023460aeb302269f2&p=a6c78fdd3752888a3fced4a84b9e36659373fce74b6254f185bf5abcc02d5597e8bf36ddef786227bb38d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=9d9a013a6401ae6064f573de1a9b4e32&id=6a4af65b007ddc01813e03b0&taste=1&supportDLTaste=0&mode=1&tr=manual&s=a17ba5fbe3a59ae2ed8484954c1a7318
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-dadefeac3912cd6023460aeb302269f2/component-ota/26/07/13/125b9548bebc41e9ae614e9486411a8d.html
+ColorOS Version: PLR110_16.0.10.500(CN01)
+Security Patch: 2026-08-01
+Release Time: 2026/08/18 03:01:29
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=be4b36925eb155c96ad7f962447bb004&p=a6c78fdd375d888b39ce89ac45cc6467c374fcb7196054ffd0ef5abe9e2f559bebea63d8e17b3471ee6ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=58c7b7295565d9ab334d017c30271db7&id=6a793e5776d168017f1d79f2&taste=1&supportDLTaste=0&mode=1&tr=manual&s=58908d3e321dd86768a2ed8311348ad1
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-be4b36925eb155c96ad7f962447bb004/component-ota/26/08/18/c9e1f0baccc44aefb048d16114ffe412.html

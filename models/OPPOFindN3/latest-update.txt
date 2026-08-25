@@ -1,10 +1,10 @@
-Update Time: 2026-05-29 04:25:17
+Update Time: 2026-08-25 10:03:09
 Region: CN
-Latest OTA version: PHN110_11.H.21_3210_202605102304
-Version Name: PHN110_16.0.5.701(CN01)
+Latest OTA version: PHN110_11.H.22_3220_202608061838
+Version Name: PHN110_16.0.5.1201(CN01)
 Android Version: Android 16
-ColorOS Version: PHN110_16.0.5.701(CN01)
-Security Patch: 2026-05-01
-Release Time: 2026/05/29 01:24:59
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=0427bf3d313b27acdeea8fd21f66e9af&p=a6c78fdd3750888b3cced5f940cb646dc371f9b21f3054a682ec00b0c22e0796b9e967dbb42b3475eb3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=a2f9e5b645a0c76bae5be90c16eb6f3e&id=6a0688d6007ddc01813dc61e&taste=1&supportDLTaste=0&mode=1&tr=manual&s=74172f981d3de9ed964ead9b252ef805
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-0427bf3d313b27acdeea8fd21f66e9af/component-ota/26/05/28/3a23a763cb7e47b1957c8e61df4fdb69.html
+ColorOS Version: PHN110_16.0.5.1201(CN01)
+Security Patch: 2026-08-01
+Release Time: 2026/08/25 09:36:56
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=f5bf5b50baeb137b46105772efbf0f74&p=a6c78fdd375d888a30ced4aa4bcd3832c671a9e84b6354f584e803bcc37d5391eaee62dbb17d6420b568d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=2d9f6ce71372ef280e9753decbc3879c&id=6a78784192ce7c01806f5eee&taste=1&supportDLTaste=0&mode=1&tr=manual&s=bec377a4ca19a889dc8950a8f844d1e5
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-f5bf5b50baeb137b46105772efbf0f74/component-ota/26/08/25/d35afcc8a2d74d5b95e8642c94643124.html

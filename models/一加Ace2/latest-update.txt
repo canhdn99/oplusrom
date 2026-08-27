@@ -1,10 +1,10 @@
-Update Time: 2026-05-25 09:38:16
+Update Time: 2026-08-27 11:08:29
 Region: CN
-Latest OTA version: PHK110_11.H.56_3560_202605131820
-Version Name: PHK110_16.0.5.700(CN01)
+Latest OTA version: PHK110_11.H.57_3570_202608191020
+Version Name: PHK110_16.0.5.1201(CN01)
 Android Version: Android 16
-ColorOS Version: PHK110_16.0.5.700(CN01)
-Security Patch: 2026-05-01
-Release Time: 2026/05/25 07:49:34
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=7998d5eff580f28c11bee0163e571ac8&p=a6c78fdd3750888b3dcedafc119b3535c223aee74e3054f5d1bf5aebc57b5997ebee33dfb57d6171b869d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=f6c0195b2335327076f0cb7b34946b6c&id=6a05c1ef9e207b01827c33ca&taste=1&supportDLTaste=0&mode=1&tr=manual&s=14c672d3fa57fefeaa6c84f81ef6c286
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-7998d5eff580f28c11bee0163e571ac8/component-ota/26/05/25/2495cfe045f14a209620481a3eaa37c1.html
+ColorOS Version: PHK110_16.0.5.1201(CN01)
+Security Patch: 2026-08-01
+Release Time: 2026/08/27 10:00:30
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=c58dbed66b89cb495b65a36af1bee14b&p=a6c78fdd375d888839cedca810ca63669270fbb71c6754f083bc00bcc22b55c4b9ba6bdce379612ebd69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=67f90b751ca4f9b2f732234abdbf505d&id=6a865da292ce7c01836a3f9b&taste=1&supportDLTaste=0&mode=1&tr=manual&s=ae2238f8923a68ac169e8cd3d9f23448
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-c58dbed66b89cb495b65a36af1bee14b/component-ota/26/08/27/efba03abc5d14befaa4da9e576662069.html

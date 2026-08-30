@@ -1,10 +1,10 @@
-Update Time: 2026-06-02 17:47:27
+Update Time: 2026-08-30 05:10:27
 Region: GL
-Latest OTA version: OPD2505_11.A.31_0310_202605211748
-Version Name: OPD2505_16.0.5.711(EX01)
+Latest OTA version: OPD2505_11.A.35_0350_202608241637
+Version Name: OPD2505_16.0.5.1202(EX01)
 Android Version: Android 16
-ColorOS Version: OPD2505_16.0.5.711(EX01)
-Security Patch: 2026-04-01
-Release Time: 2026/06/02 13:52:57
-ROM Download Link: https://component-ota-sg.allawnos.com/downloadCheck?c=5311ad4650ae20c65a13b6a075d27282&p=f088224e006e138aa5bc95514631d065457f199c2731c0bf7719c687c5c6d26710b16d4dfa057fe04503452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=4e8995ddd1ed81ed580b1f64753d8d17&id=6a0fb8dc9e207b01827c3d11&taste=0&supportDLTaste=0&mode=1&tr=manual&s=2a20218e1cd03f1628dd81d13fd52670
-Changelogs: https://gauss-componentotamanual.allawnofs.com/remove-5311ad4650ae20c65a13b6a075d27282/component-ota/26/06/02/279fb7c112ec4fdd9f7a7f01ccf3b03f.html
+ColorOS Version: OPD2505_16.0.5.1202(EX01)
+Security Patch: 2026-08-01
+Release Time: 2026/08/30 01:36:57
+ROM Download Link: https://component-ota-sg.allawnos.com/downloadCheck?c=99166f2d4355834a6361322091cd5b31&p=f088224e0063138aacbc9102116fdf33472917977f63c0ea761b9e84ca978a3440b7314df8077ab64003452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=19c263286e6cab013002e25496572738&id=6a91518a76d168017ee7d481&taste=0&supportDLTaste=0&mode=1&tr=manual&s=2f2cbb82096dfebda7471a4b29852e95
+Changelogs: https://gauss-componentotamanual.allawnofs.com/remove-99166f2d4355834a6361322091cd5b31/component-ota/26/08/29/c65752b050df4536bf45c2ff46d505f9.html

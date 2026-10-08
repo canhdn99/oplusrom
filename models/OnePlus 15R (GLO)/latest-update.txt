@@ -1,10 +1,10 @@
-Update Time: 2026-08-26 14:19:55
+Update Time: 2026-10-08 14:50:56
 Region: GL
-Latest OTA version: CPH2769_11.A.51_0510_202608102211
-Version Name: CPH2769_16.0.10.500(EX01)
+Latest OTA version: CPH2769_11.A.52_0520_202609111127
+Version Name: CPH2769_16.0.10.600(EX01)
 Android Version: Android 16
-ColorOS Version: CPH2769_16.0.10.500(EX01)
-Security Patch: 2026-08-01
-Release Time: 2026/08/26 13:24:05
-ROM Download Link: https://component-ota-sg.allawnos.com/downloadCheck?c=e01b8e5816793138307c915a1f760789&p=f088224e00631389a6bcc20c4a338061112e139c7f3ec0e8294e9dd1ce95813e14e53045af552eb24d5e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=8cd1c643ad2ae46b3394fcf6e3580949&id=6a7bdbf092ce7c01806f64ad&taste=0&supportDLTaste=0&mode=1&tr=manual&s=fc2e28639c8a325286988d6a3448586c
-Changelogs: https://gauss-componentotamanual.allawnofs.com/remove-e01b8e5816793138307c915a1f760789/component-ota/26/08/26/f7722af8b8954812bbc1eaa017ae5825.html
+ColorOS Version: CPH2769_16.0.10.600(EX01)
+Security Patch: 2026-09-01
+Release Time: 2026/10/08 12:48:45
+ROM Download Link: https://component-ota-sg.allawnos.com/downloadCheck?c=10cac564c72c955c3fe8cc39f36e5494&p=f088224e00621389a0bcc0004264d162447815c27f35c0ef2b1c9dd39cc2853712b36444fe0028b3460f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=9cda13e9d4e2dba79d54d4c5f054588b&id=6aa759b076d168017ee7ebfc&taste=0&supportDLTaste=0&mode=1&tr=manual&s=76434f797f7bf549235c2bba15f46869
+Changelogs: https://gauss-componentotamanual.allawnofs.com/remove-10cac564c72c955c3fe8cc39f36e5494/component-ota/26/10/08/20d085bb52844f42a9c0c3873590c282.html

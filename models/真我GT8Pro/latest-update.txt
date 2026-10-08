@@ -1,10 +1,10 @@
-Update Time: 2026-09-29 13:16:45
+Update Time: 2026-10-08 14:52:33
 Region: CN
-Latest OTA version: RMX5200_11.C.26_1260_202609240636
-Version Name: RMX5200_17.0.0.105(CN01)
+Latest OTA version: RMX5200_11.C.27_1270_202610051850
+Version Name: RMX5200_17.0.0.106(CN01)
 Android Version: Android 17
-ColorOS Version: RMX5200_17.0.0.105(CN01)
+ColorOS Version: RMX5200_17.0.0.106(CN01)
 Security Patch: 2026-09-01
-Release Time: 2026/09/29 08:34:36
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=a9f725b2f4fe0f4532dce104b972fa79&p=a6c78fdd375c88883dcedda81798366dc273fde41b6454a2d4ed5bb8c220549aebbb378fe62e612fe93dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=947b8987ecb064e654a7142221b0c28e&id=6ab4759f92ce7c01836a7301&taste=1&supportDLTaste=0&mode=1&tr=manual&s=44c0c02316b3063c46c10596030d2f3a
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-a9f725b2f4fe0f4532dce104b972fa79/component-ota/26/09/29/fab4183921c24aa19ff08f3c181b24c9.html
+Release Time: 2026/10/08 12:36:00
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=1b6a2e0150ea403254b9c4947ee8c693&p=a6c78fdd3655888a3cced5fb479736629322fcb71e3054fe82ba00bdc728039be3bc6ad8b57b6371ba69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=f1d4d170fcc9f5b15fd5d0959bdc8726&id=6ac3b18e92ce7c01836a7bde&taste=1&supportDLTaste=0&mode=1&tr=manual&s=39b74dee75bc7d6ad112f66380230b2f
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-1b6a2e0150ea403254b9c4947ee8c693/component-ota/26/10/08/bca5097f37d544fba0b12a50aca41e20.html

@@ -1,10 +1,10 @@
-Update Time: 2026-07-30 00:06:14
+Update Time: 2026-10-26 07:42:40
 Region: CN
-Latest OTA version: PJX110_11.F.17_2170_202607201354
-Version Name: PJX110_16.0.5.1001(CN01)
+Latest OTA version: PJX110_11.F.18_2180_202610152246
+Version Name: PJX110_16.0.5.1301(CN01)
 Android Version: Android 16
-ColorOS Version: PJX110_16.0.5.1001(CN01)
-Security Patch: 2026-07-01
-Release Time: 2026/07/29 23:46:18
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=3544e5733489d9b0a02e9822c0e9f80b&p=a6c78fdd3752888839ce89fc11ce34639573fbb04b6e54ff80eb5bbf942b5893efbd33ddb67e6523be3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=2a2651f92b5ca29683e06a4e132bbbb8&id=6a5df61f9e207b01827c83a0&taste=1&supportDLTaste=0&mode=1&tr=manual&s=fcef76fed9a4111319418caae86decd7
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-3544e5733489d9b0a02e9822c0e9f80b/component-ota/26/07/29/8996beda31274ff1a519b14300e2b2e0.html
+ColorOS Version: PJX110_16.0.5.1301(CN01)
+Security Patch: 2026-10-01
+Release Time: 2026/10/26 02:31:32
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=0cfe9ee3a1acf24f5df4f6f5b647e514&p=a6c78fdd3655888b30ce8baa439836329576abb34c3754a6d1b600ee9f2d07c6e2be6bdcb57b6223ba3ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=b65577fdfd4dc085a35b4ec9e6a520fd&id=6ad573eb350d39017fff15eb&taste=1&supportDLTaste=0&mode=1&tr=manual&s=32158da7c7a603413eef54bee38478b9
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-0cfe9ee3a1acf24f5df4f6f5b647e514/component-ota/26/10/26/58afe145673e43478480d1e8f3d5aad6.html

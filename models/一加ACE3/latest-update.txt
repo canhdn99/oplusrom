@@ -1,10 +1,10 @@
-Update Time: 2026-07-23 15:34:46
+Update Time: 2026-10-28 06:11:49
 Region: CN
-Latest OTA version: PJE110_11.F.31_2310_202607172126
-Version Name: PJE110_16.0.5.1002(CN01)
+Latest OTA version: PJE110_11.F.32_2320_202610191534
+Version Name: PJE110_16.0.5.1301(CN01)
 Android Version: Android 16
-ColorOS Version: PJE110_16.0.5.1002(CN01)
-Security Patch: 2026-07-01
-Release Time: 2026/07/23 14:39:05
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=3bd79ff3edc87cd02d09af8cbaab5269&p=a6c78fdd375288883bced8fe4bcb3265c374f9b54f3554a3d1ed5abfc22f5091e3be648ae72a3727be3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=39b531f931b635072535538e1f1c6d22&id=6a6020e59e207b01827c8622&taste=1&supportDLTaste=0&mode=1&tr=manual&s=970821b52fc1f91e0d28d816ace8b3bc
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-3bd79ff3edc87cd02d09af8cbaab5269/component-ota/26/07/23/b3a5de257dd7407c9b81e302706d1a23.html
+ColorOS Version: PJE110_16.0.5.1301(CN01)
+Security Patch: 2026-10-01
+Release Time: 2026/10/28 02:11:06
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=8122ee3aa0ea71aa4593f21f0933ed50&p=a6c78fdd3655888839cedca7449c3765c425fbe04e3554a1d4bd5beac32e03c6e3b763dbe02b6127b832d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=645ea873bbecb46182fe65a50f9ca79a&id=6ad73ed27d8131017f15777c&taste=1&supportDLTaste=0&mode=1&tr=manual&s=678baa688a7a7521ad03a0da55f449df
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-8122ee3aa0ea71aa4593f21f0933ed50/component-ota/26/10/28/25cebde1c4b14124a6c8956e2777180a.html

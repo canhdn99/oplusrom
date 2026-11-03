@@ -1,10 +1,10 @@
-Update Time: 2026-08-20 10:39:05
+Update Time: 2026-11-03 18:22:13
 Region: CN
-Latest OTA version: PLC110_11.C.35_1350_202608111828
-Version Name: PLC110_16.0.10.500(CN01)
-Android Version: Android 16
-ColorOS Version: PLC110_16.0.10.500(CN01)
-Security Patch: 2026-08-01
-Release Time: 2026/08/20 10:03:39
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=a02ec0f69f14d4924e5456ba355ec5eb&p=a6c78fdd375d888b3bce8fab46ce3564c175fce24d6e54fed6bc5ab8c279049abebf608de7716572ee3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=32f938d3aa75a78626816014e60f7339&id=6a7be8aa76d168017f1d7f6b&taste=1&supportDLTaste=0&mode=1&tr=manual&s=b7bddf28580b50255f59180080297797
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-a02ec0f69f14d4924e5456ba355ec5eb/component-ota/26/08/20/56934a87987a499fa6fade29e3686107.html
+Latest OTA version: PLC110_11.F.41_2410_202610210233
+Version Name: PLC110_17.0.0.100(CN01)
+Android Version: Android 17
+ColorOS Version: PLC110_17.0.0.100(CN01)
+Security Patch: 2026-10-01
+Release Time: 2026/11/03 12:51:53
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=b3e67f5fc695c8ea30ded7b9b630ef38&p=a6c78fdd365588883bcedba74a9a31619323abe0183054a487ba5bb0917d0593beba60deb42c6476bf6dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=418f7104c002c0d97bb78b3d4ee2ff58&id=6ad97601350d39017fff1c6b&taste=1&supportDLTaste=0&mode=1&tr=manual&s=252f704e09f47eed660caef280a9e209
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-b3e67f5fc695c8ea30ded7b9b630ef38/component-ota/26/11/03/b85e6bb4316246df8fc85bbc8e85d8a4.html

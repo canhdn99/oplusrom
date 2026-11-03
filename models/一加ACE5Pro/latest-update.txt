@@ -1,10 +1,10 @@
-Update Time: 2026-08-20 11:35:24
+Update Time: 2026-11-03 18:22:10
 Region: CN
-Latest OTA version: PKR110_11.C.29_1290_202608112008
-Version Name: PKR110_16.0.10.500(CN01)
-Android Version: Android 16
-ColorOS Version: PKR110_16.0.10.500(CN01)
-Security Patch: 2026-08-01
-Release Time: 2026/08/20 11:18:47
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=192289bcf4b85cb749f805d705bb5ece&p=a6c78fdd375d888b38ce89ab47ce36679625aeb44e3454f0d7ed03b0c22900c4ecba60dbe72b3274ba3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=663faba6b7971bcf28171368f7825720&id=6a7b2fc876d168017f1d7d73&taste=1&supportDLTaste=0&mode=1&tr=manual&s=43aea4687f0a13207ab446d2af9a2f93
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-192289bcf4b85cb749f805d705bb5ece/component-ota/26/08/20/d32d88dac07347efac9d82e845349321.html
+Latest OTA version: PKR110_11.F.11_2110_202610310143
+Version Name: PKR110_17.0.0.101(CN01)
+Android Version: Android 17
+ColorOS Version: PKR110_17.0.0.101(CN01)
+Security Patch: 2026-09-01
+Release Time: 2026/11/03 12:47:20
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=ad8269d381568b33cf783d2af9399440&p=a6c78fdd3654888a38ceddae139c67619774f9b4436e54a58ce85bec902e5092ebbd34d2b62d3173b43cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=7a7f587bb4e799b0ba475568a0d8de37&id=6ae7dc53350d39017fff2c80&taste=1&supportDLTaste=0&mode=1&tr=manual&s=88fc0f167e56c82a76fc5d32b5a2989d
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-ad8269d381568b33cf783d2af9399440/component-ota/26/11/03/6bf048144f3e4b4e8e96c52469a720f2.html

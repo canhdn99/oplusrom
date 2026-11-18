@@ -1,10 +1,10 @@
-Update Time: 2026-09-29 13:16:01
+Update Time: 2026-11-18 10:38:32
 Region: CN
-Latest OTA version: OPD2413_11.C.35_1350_202609120016
-Version Name: OPD2413_16.0.10.600(CN01)
-Android Version: Android 16
-ColorOS Version: OPD2413_16.0.10.600(CN01)
-Security Patch: 2026-09-01
-Release Time: 2026/09/29 06:37:52
-ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=a249db100e2a7415fb27c6d7d354c2a2&p=a6c78fdd375c888b3dced5f9429c65659725f8b04b3454fed3b75aedc02b5895eee9608ee27a3174ba69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=f4d6d4a3d8e6d62acc57a2f45326dbaf&id=6aa7ba3e76d168017ee7ecc0&taste=0&supportDLTaste=0&mode=1&tr=manual&s=0898b5e77f6e86f373712d38fb249023
-Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-a249db100e2a7415fb27c6d7d354c2a2/component-ota/26/09/28/46d86d34db374cd1bbd2c4d070368c04.html
+Latest OTA version: OPD2413_11.F.33_2330_202611050127
+Version Name: OPD2413_17.0.0.103(CN01)
+Android Version: Android 17
+ColorOS Version: OPD2413_17.0.0.103(CN01)
+Security Patch: 2026-10-01
+Release Time: 2026/11/18 09:02:55
+ROM Download Link: https://component-ota-cn.allawntech.com/downloadCheck?c=1e23ba3433d5cab179324d9310310049&p=a6c78fdd3654888a3cce8ea84a97386c9076aee51e6054a583be5bbf93790592b8eb34d2ee7f6171ee3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=d8059ad583c5921c1cdd801782f4f64a&id=6afd63ef350d39017fff49b0&taste=1&supportDLTaste=0&mode=1&tr=manual&s=3fe85e5b153cd239477c49e63354836b
+Changelogs: https://gauss-compotacostauto-cn.allawnfs.com/remove-1e23ba3433d5cab179324d9310310049/component-ota/26/11/18/033a98113fd24e4691614ab97bcb2f2d.html
